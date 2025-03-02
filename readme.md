@@ -1,0 +1,1 @@
+this is local set up to learn how to push code from local machine to repo, for project which was made just on local machine.
